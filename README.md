@@ -1,8 +1,9 @@
+
 <div align="center"> 
 
   # 👋 Hello, I'm [Gautam Billore](https://github.com/gautambillore2208)
 
-  <h3 align="center">Full Stack Developer | Passionate about building scalable web applications</h3>
+  <h3 align="center">Full Stack & Mobile App Developer | MERN Stack | React Native | MCA Student</h3>
 
 </div>
 
@@ -19,10 +20,11 @@
 
 ## 🧑‍💻 About Me
 
-🎯 Full Stack Developer skilled in front-end and back-end technologies like **React**, **Redux**, **Node.js**, **Express.js**, and **MongoDB**.  
-🚀 Passionate about creating responsive, scalable web applications with clean code.  
-📚 Strong foundation in **JavaScript**, modern UI/UX practices, and cloud-based development.  
-💬 Actively learning new technologies and improving problem-solving with DSA.
+🎯 Full Stack Developer currently pursuing **MCA**, with hands-on experience in **React**, **React Native**, **Redux**, **Node.js**, **Express.js**, and **MongoDB**  
+🚀 Built scalable and responsive web and mobile applications from scratch  
+📚 Passionate about clean code, user-centric designs, and solving real-world problems with technology  
+📱 Skilled in building mobile apps using **React Native**  
+🛠 Actively working on DSA and contributing to open-source projects
 
 ---
 
@@ -30,9 +32,10 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| **ShoppyGlobe Backend** | Developed REST APIs for product listing, authentication, and cart | Node.js, Express.js, MongoDB |
-| **YouTube Clone** | MERN-based video platform with JWT auth and upload system | React.js, Node.js, Express.js, MongoDB |
-| **ShoppyGlobe Frontend** | Responsive UI with product browsing, cart, and checkout | React.js, React Router, CSS |
+| **ShoppyGlobe Backend** | Developed REST APIs for product listing, auth, cart | Node.js, Express.js, MongoDB |
+| **YouTube Clone** | MERN-based video platform with JWT auth, uploads | React.js, Node.js, Express.js, MongoDB |
+| **ShoppyGlobe Frontend** | Full e-commerce UI with navigation & cart | React.js, React Router |
+| **React Native Projects** | Mobile apps built for learning and prototyping | React Native, Expo, JavaScript |
 
 ---
 
@@ -43,6 +46,7 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
 ### 🖥️ Backend
@@ -50,7 +54,7 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🛠 Tools & Platforms
+### 🧰 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -59,32 +63,32 @@
 
 ## 📜 Education
 
+- 🎓 **Master of Computer Applications (MCA)** – *Pursuing*
 - 🎓 **Bachelor of Arts (B.A.)** – Barkatullah University, Bhopal (2021–2024)
 - 🧰 **Electrician Diploma** – NCVT (2019–2021)
-- 📘 **Senior Secondary (XII)** – MP Board, Govt. School, 2021
-- 📗 **Secondary (X)** – MP Board, Govt. School, 2019
+- 📘 **Senior Secondary (XII)** – MP Board, Govt. School (2021)
+- 📗 **Secondary (X)** – MP Board, Govt. School (2019)
 
 ---
 
 ## 🧠 Trainings & Certifications
 
-- **Capstone Project** – Internshala, Mar 2025  
-- **Mastering Node.js, Express & MongoDB** – Feb 2025  
-- **Building Modern Web Apps with React** – Jan–Feb 2025  
-- **DSA in JavaScript I & II** – Dec 2024–Jan 2025  
-- **Interactive Websites with JavaScript** – Oct–Dec 2024  
-- **Git & GitHub** – Oct 2024  
-- **HTML & CSS** – Aug 2024  
-- **Full Stack Development: Let's Begin** – Aug 2024  
+- Capstone Project – Internshala (Mar 2025)  
+- Mastering Node.js, Express.js & MongoDB – (Feb 2025)  
+- Building Modern Web Applications Using React – (Jan–Feb 2025)  
+- DSA in JavaScript (Level I & II) – (Dec 2024–Jan 2025)  
+- Developing Interactive Websites with JavaScript – (Oct–Dec 2024)  
+- Git & GitHub: Mastering Version Control – (Oct 2024)  
+- HTML & CSS, Full Stack Basics – (Aug 2024)
 
 ---
 
-## 💡 Skills
+## 💼 Skills
 
-- React.js, Redux, JavaScript, HTML, CSS  
+- React.js, React Native, Redux, JavaScript, HTML, CSS  
 - Node.js, Express.js, MongoDB  
-- Git, GitHub, REST APIs  
-- Effective Communication & Time Management  
+- REST APIs, Git, GitHub  
+- Strong Communication & Time Management
 
 ---
 
@@ -92,8 +96,9 @@
 
 - 🔗 [GitHub](https://github.com/gautambillore2208)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/gautam-billore-ab0174321/)  
-- 📦 [Project Zip 1](https://training-uploads.internshala.com/backend-fsd-pgc/uploads/projects/v_1/4289553/39b45a3lu8n-3155318.zip)  
-- 📦 [Project Zip 2](https://training-uploads.internshala.com/capstone-fsd-pgc/uploads/projects/v_1/4289554/a9sd6re98ue-10017955.zip)
+- 📦 [Capstone Project](https://training-uploads.internshala.com/capstone-fsd-pgc/uploads/projects/v_1/4289554/a9sd6re98ue-10017955.zip)  
+- 📦 [Backend Project](https://training-uploads.internshala.com/backend-fsd-pgc/uploads/projects/v_1/4289553/39b45a3lu8n-3155318.zip)  
+- 📦 [React Project](https://training-uploads.internshala.com/react-fsd-pgc/uploads/projects/v_1/4289552/640mrmr4g8j-4154090.zip)
 
 ---
 
@@ -112,5 +117,5 @@
 </div>
 
 <p align="center">
-  <i>“Striving to learn, build, and contribute every day.”</i>
+  <i>“Keep building. Keep improving. Stay consistent.”</i>
 </p>
