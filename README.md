@@ -103,6 +103,13 @@
 [![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918819830897)
 
 ---
+## 📊 GitHub Analytics
+<div align="center">
+  
+  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=gautambillore2208&show_icons=true&theme=dark&hide_border=true)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gautambillore2208&layout=compact&theme=dark&hide_border=true)
+
+</div>
 
 <p align="center">
   <i>“Striving to learn, build, and contribute every day.”</i>
